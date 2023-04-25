@@ -1406,7 +1406,8 @@ contract Dev is ERC721Enumerable, ReentrancyGuard, Ownable {
         "Ramallah",
         "Goa",
         "London",
-        "Pyongyang"
+        "Pyongyang",
+        "San Luis"
     ];
     
     string[] private minds = [
